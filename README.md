@@ -166,4 +166,4 @@ Task state changes are exposed through `POST /tasks/{id}/change-state`. Administ
 
 ## License
 
-No license has been specified yet. Add a `LICENSE` file before distributing the project publicly.
+No license has been specified yet. This project is currently not licensed for reuse or redistribution.
